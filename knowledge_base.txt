@@ -1,0 +1,33 @@
+Simple Interest:
+Simple interest is interest calculated only on the original principal. 
+Formula: Interest = Principal × Rate × Time.
+
+Compound Interest:
+Compound interest is interest calculated on both the original principal and accumulated interest.
+Formula: Future Value = Principal × (1 + Rate)^Time.
+
+Interest Rate:
+Interest rate is the percentage charged or earned on money over a period of time.
+
+Risk and Return:
+Risk means the possibility of losing money or receiving lower returns than expected.
+Return means the profit or income earned from an investment.
+Usually, higher expected return comes with higher risk.
+
+Stock:
+A stock represents ownership in a company. Stockholders may earn money from price increases or dividends.
+
+Bond:
+A bond is a debt instrument. When investors buy bonds, they lend money to the issuer. The issuer promises to pay interest and return the principal.
+
+Financial Market:
+A financial market is a place where people and institutions trade financial assets such as stocks, bonds, and currencies.
+
+Investment:
+Investment means putting money into assets in order to earn future income or profit.
+
+Present Value:
+Present value is the current value of future money after discounting.
+
+Future Value:
+Future value is the amount of money that an investment will grow to in the future.

@@ -1,0 +1,37 @@
+[
+    {
+        "topic": "Simple Interest",
+        "student_answer": "100",
+        "feedback": "正确 / Correct：回答正确。单利 = 1000 × 5% × 2 = 100 元。"
+    },
+    {
+        "topic": "Compound Interest",
+        "student_answer": "1102.50",
+        "feedback": "正确 / Correct：回答正确。复利终值 = 1000 × (1 + 5%)² = 1102.50 元。"
+    },
+    {
+        "topic": "Risk and Return",
+        "student_answer": "Higher return usually means higher risk.",
+        "feedback": "正确 / Correct：基本正确，你解释了风险与收益之间的关系。"
+    },
+    {
+        "topic": "Stock",
+        "student_answer": "A stock means ownership of a company.",
+        "feedback": "正确 / Correct：回答正确，股票代表对一家公司的部分所有权。"
+    },
+    {
+        "topic": "Compound Interest",
+        "student_answer": "1000",
+        "feedback": "错误 / Wrong：回答错误。正确答案是 1102.50 元，需要使用复利公式 FV = Principal × (1 + Rate)^Time。"
+    },
+    {
+        "topic": "Bond",
+        "student_answer": "investment",
+        "feedback": "不完整 / Incomplete：回答不完整，债券表示投资者把钱借给发行人。"
+    },
+    {
+        "topic": "Compound Interest",
+        "student_answer": "1000",
+        "feedback": "错误 / Wrong：回答错误。正确答案是 1102.50 元，需要使用复利公式 FV = Principal × (1 + Rate)^Time。"
+    }
+]
