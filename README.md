@@ -1,30 +1,18 @@
-FinTet AI 金融学习陪伴体
+# FinTet — Finance Learning Assistant
 
-一、项目简介
-FinTet 是一个基于 Streamlit 开发的金融学习辅助系统，面向金融基础学习者。系统通过用户画像、学习状态输入、金融知识问答、练习题生成、答案反馈、学习进度分析和个性化学习计划，帮助用户进行更有针对性的学习。
+A Streamlit-based finance learning assistant for students, with finance Q&A, quizzes, and personalized study support.
 
-二、运行环境
-Python 3.x
-Streamlit
+## What it does
 
-三、安装依赖
-pip install -r requirements.txt
+Helps students learn finance concepts interactively through Q&A, practice quizzes, and personalized study support.
 
-四、运行方法
-streamlit run app.py
+## Features
 
-五、主要文件说明
-app.py：系统主程序，包含页面展示、交互逻辑、问答、练习、反馈、诊断和学习计划生成功能。
-knowledge_base.txt：本地金融基础知识库，用于金融概念检索和问答内容生成。
-user_profile.json：用户画像数据文件，用于保存姓名、学习水平、学习偏好、情绪状态和最近学习主题。
-student_history.json：学习历史记录文件，用于保存答题主题、学生答案和系统反馈。
-requirements.txt：项目依赖文件。
-.streamlit/config.toml：Streamlit 页面配置文件。
+- Finance Q&A
+- Practice quizzes
+- Personalized study support
 
-六、启动后使用流程
-1. 在侧边栏填写用户画像并选择学习状态。
-2. 进入金融知识问答页面，输入金融问题。
-3. 进入练习题生成页面，选择知识点并生成练习题。
-4. 进入答案反馈页面，提交答案并查看系统反馈。
-5. 进入学习进度面板查看正确率和薄弱知识点。
-6. 进入学习计划页面生成个性化学习计划。
+## Tech Stack
+
+- Python
+- Streamlit
